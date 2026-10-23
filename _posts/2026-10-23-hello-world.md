@@ -1,6 +1,6 @@
 ---
 title: 블로그를 시작합니다
-date: 2026-10-23 18:00:00 +0900
+date: 2026-10-23 17:00:00 +0900
 categories: [Blog, Setup]
 tags: [jekyll, chirpy, github-pages]
 ---
@@ -14,7 +14,7 @@ GitHub Pages 와 Jekyll [Chirpy](https://github.com/cotes2020/jekyll-theme-chirp
 ```yaml
 ---
 title: 글 제목
-date: 2026-10-23 18:00:00 +0900
+date: 2026-10-23 17:00:00 +0900
 categories: [카테고리, 하위카테고리]
 tags: [태그1, 태그2]
 ---
